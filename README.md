@@ -1,2 +1,5 @@
-# Word-Count-
-#Spark #Scala #IntelliJ
+Word Count program in Spark-Scala
+
+
+
+Use IntelliJ
