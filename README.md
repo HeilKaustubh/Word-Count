@@ -1,4 +1,4 @@
-Word Count program in Spark-Scala
+#Word Count program in Spark-Scala
 
 Use your own data file
 
